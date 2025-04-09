@@ -1,0 +1,1 @@
+ /Users/suhlahlaphyu/Projects/wave/recipefinder/.dart_tool/flutter_build/80dec75c98f7218a8632ad2215d7d207/native_assets.json: 
